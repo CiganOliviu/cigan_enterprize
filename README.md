@@ -43,3 +43,24 @@ Also for making the user job simpler I also implemented a search engine through 
 ![Website main page](CiganEnterprize_documentation/picture_6.png)
 
 This blog system was also implemented in ciganoliviudavid webapp which is my personal website ( Details here -> ...).
+
+##### CAREERS
+
+In this database I practically store open jobs and internships in the company as well as appliances for 
+those jobs. The administrator is able to add open jobs and check out the appliances for all open jobs
+in the company. Because the use case of the webapp was about a company which had different locations in 
+the country I had to create open jobs for specific locations. I also wanted to have the same open job 
+in different locations. This was a little bit problematic at first sight but it was solvable just by
+implementing some logic between the tables Studios and AvailableJobs, AvailableInternships. It's about
+a foreignKey relationship.
+
+The AvailableJobs and AvailableInternships tables are pretty much the same thing with just some fields
+as difference.
+
+##### This is how listed jobs look like in the administration panel
+
+![Website main page](CiganEnterprize_documentation/picture_7.png)
+
+##### This is how the form looks when adding a new open job
+
+![Website main page](CiganEnterprize_documentation/picture_8.png)
