@@ -115,3 +115,6 @@ will appear as seen.
 ##### This is how the message looks when you open it
 
 ![Website main page](CiganEnterprize_documentation/picture_16.png)
+
+The newsletter table works the same way, there is a form in the newsletter section 
+which you fill and the data is stored in the table.
