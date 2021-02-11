@@ -118,3 +118,15 @@ will appear as seen.
 
 The newsletter table works the same way, there is a form in the newsletter section 
 which you fill and the data is stored in the table.
+
+![Website main page](CiganEnterprize_documentation/picture_17.png)
+
+##### EVENTS
+
+The events database contains three main tables: Host Events, Past Events, Sponsor Events.
+In the Host Events and Sponsor Events the administrator just adds the events where
+the company is a host or a sponsor. These are active tables which means in the moment
+the date of the host event or sponsored event has past, there are automatically moved
+to past events table and deleted from host events or sponsor events.
+
+![Website main page](CiganEnterprize_documentation/picture_18.png)
