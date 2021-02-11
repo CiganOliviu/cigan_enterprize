@@ -103,3 +103,7 @@ The message is sent trough a form in the UI, more precisely in the Contact secti
 ##### This is how the form looks like in the UI
 
 ![Website main page](CiganEnterprize_documentation/picture_14.png)
+
+##### This is how the administrator sees the messages
+
+![Website main page](CiganEnterprize_documentation/picture_15.png)
