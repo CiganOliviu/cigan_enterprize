@@ -68,3 +68,10 @@ as difference.
 ##### This is how the UI with open jobs looks like
 
 ![Website main page](CiganEnterprize_documentation/picture_9.png)
+
+##### As a user you can see more details about the job by clicking on it
+
+The system will automatically create a page for every job that was added in the administration panel, 
+in one way or another this system is similar with the one implemented in the blog.
+
+![Website main page](CiganEnterprize_documentation/picture_10.png)
