@@ -64,3 +64,7 @@ as difference.
 ##### This is how the form looks when adding a new open job
 
 ![Website main page](CiganEnterprize_documentation/picture_8.png)
+
+##### This is how the UI with open jobs looks like
+
+![Website main page](CiganEnterprize_documentation/picture_9.png)
