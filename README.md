@@ -165,4 +165,7 @@ the post where they are working etc.
 
 ![Website main page](CiganEnterprize_documentation/picture_22.png)
 
+They are also listed in the UI, more precisely in the Team section of the webapp as 
+it can be seen below.
 
+![Website main page](CiganEnterprize_documentation/picture_23.png)
