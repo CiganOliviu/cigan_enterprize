@@ -79,3 +79,12 @@ in one way or another this system is similar with the one implemented in the blo
 The InternshipAppliance table is pretty similar with the JobsAppliance, the differences are just
 some special fields every table has but the system behind them is the same. The ideea is that you can
 apply for the job through a simple form in the webapp.
+
+![Website main page](CiganEnterprize_documentation/picture_11.png)
+
+After filling this form, all the information will be stored in the InternshipAppliance table where
+the platform administrator will be able to check it.
+
+##### This is how internship appliances look like in the administration panel
+
+![Website main page](CiganEnterprize_documentation/picture_12.png)
