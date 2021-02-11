@@ -155,3 +155,14 @@ webapp will automatically create a page which contains all the details you added
 in the database, in django that page is called a DetailView.
 
 ![Website main page](CiganEnterprize_documentation/picture_21.png)
+
+##### Employers
+
+This table includes all the employers who are working in the company. All of them
+are added manually by the webapp administrator and are visible in the administration
+page with specific information about them like years of experience, a profile image, 
+the post where they are working etc.
+
+![Website main page](CiganEnterprize_documentation/picture_22.png)
+
+
