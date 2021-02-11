@@ -77,7 +77,7 @@ in one way or another this system is similar with the one implemented in the blo
 ![Website main page](CiganEnterprize_documentation/picture_10.png)
 
 The InternshipAppliance table is pretty similar with the JobsAppliance, the differences are just
-some special fields every table has but the system behind them is the same. The ideea is that you can
+some special fields every table has but the system behind them is the same. The idea is that you can
 apply for the job through a simple form in the webapp.
 
 ![Website main page](CiganEnterprize_documentation/picture_11.png)
@@ -92,3 +92,14 @@ the platform administrator will be able to check it.
 ##### Checking the appliance in detail
 
 ![Website main page](CiganEnterprize_documentation/picture_13.png)
+
+##### COMMUNICATION
+
+This database represents the direct contact to any user who visits the site. It contains 
+two main tables. The Contact table contains messages who are send to the business by a visitor who wants
+to offer some feedback, ask something about the business or pretty much say anything he wants.
+The message is sent trough a form in the UI, more precisely in the Contact section.
+
+##### This is how the form looks like in the UI
+
+![Website main page](CiganEnterprize_documentation/picture_14.png)
