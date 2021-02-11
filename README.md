@@ -88,3 +88,7 @@ the platform administrator will be able to check it.
 ##### This is how internship appliances look like in the administration panel
 
 ![Website main page](CiganEnterprize_documentation/picture_12.png)
+
+##### Checking the appliance in detail
+
+![Website main page](CiganEnterprize_documentation/picture_13.png)
