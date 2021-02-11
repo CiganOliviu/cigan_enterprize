@@ -129,4 +129,10 @@ the company is a host or a sponsor. These are active tables which means in the m
 the date of the host events or sponsored events has past, there are automatically moved
 to past events table and deleted from host events or sponsor events.
 
+##### This is how the events are in the UI
+
 ![Website main page](CiganEnterprize_documentation/picture_18.png)
+
+Also you can click on any event for getting more details about it.
+
+![Website main page](CiganEnterprize_documentation/picture_19.png)
