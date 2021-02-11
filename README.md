@@ -169,3 +169,16 @@ They are also listed in the UI, more precisely in the Team section of the webapp
 it can be seen below.
 
 ![Website main page](CiganEnterprize_documentation/picture_23.png)
+
+The team section as well as the blog section, studios, careers, internships and any other
+who is based on queries from the database are adaptable at any number of instances
+in the database with no exception.
+
+##### Projects
+
+This table works exactly like the Studios and Employers table. It stores all the projects
+added by the administrator and eventually are posted in the Projects section of the webapp.
+
+##### This is how the projects are listed in the database
+
+![Website main page](CiganEnterprize_documentation/picture_24.png)
