@@ -107,3 +107,11 @@ The message is sent trough a form in the UI, more precisely in the Contact secti
 ##### This is how the administrator sees the messages
 
 ![Website main page](CiganEnterprize_documentation/picture_15.png)
+
+In the right side it can be seen the READ field, in the moment you click on a message and
+you read it, you also have a check box below. If you check that check box the message
+will appear as seen.
+
+##### This is how the message looks when you open it
+
+![Website main page](CiganEnterprize_documentation/picture_16.png)
