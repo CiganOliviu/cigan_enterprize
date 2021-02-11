@@ -37,3 +37,9 @@ change or write articles very easy through a basic form.
 ##### The way it looks in the UI
 
 ![Website main page](CiganEnterprize_documentation/picture_5.png)
+
+Also for making the user job simpler I also implemented a search engine through the articles.
+
+![Website main page](CiganEnterprize_documentation/picture_6.png)
+
+This blog system was also implemented in ciganoliviudavid webapp which is my personal website ( Details here -> ...).
