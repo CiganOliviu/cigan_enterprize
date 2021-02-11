@@ -136,3 +136,22 @@ to past events table and deleted from host events or sponsor events.
 Also you can click on any event for getting more details about it.
 
 ![Website main page](CiganEnterprize_documentation/picture_19.png)
+
+##### MAINCOMPONENT
+
+In the main component database I have three tables who are all independent: Employers,
+Projects and Studios.
+
+##### Studios
+
+The Studios table is where the administrator adds the locations of the company. It includes
+information like studio image, manager name, address, city and others. There is a section
+in the webapp (Studios section) which adapts to how many locations you add in the database.
+
+![Website main page](CiganEnterprize_documentation/picture_20.png)
+
+Again, in the moment you click on a location you can see all the details about it. The
+webapp will automatically create a page which contains all the details you added
+in the database, in django that page is called a DetailView.
+
+![Website main page](CiganEnterprize_documentation/picture_21.png)
