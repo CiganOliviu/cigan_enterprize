@@ -75,3 +75,7 @@ The system will automatically create a page for every job that was added in the 
 in one way or another this system is similar with the one implemented in the blog.
 
 ![Website main page](CiganEnterprize_documentation/picture_10.png)
+
+The InternshipAppliance table is pretty similar with the JobsAppliance, the differences are just
+some special fields every table has but the system behind them is the same. The ideea is that you can
+apply for the job through a simple form in the webapp.
