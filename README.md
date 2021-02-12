@@ -5,7 +5,7 @@ and subsystems who are very well automated.
 
 ![Website main page](CiganEnterprize_documentation/picture_1.png)
  
- ## Backend
+## Backend
 
 In the backend I have 9 databases each of them being strong related to a subsystem automated in the webapp.
 I have also integrated the CRM plugin ( more details here -> ... ) for managing the clients and the projects
@@ -182,3 +182,10 @@ added by the administrator and eventually are posted in the Projects section of 
 ##### This is how the projects are listed in the database
 
 ![Website main page](CiganEnterprize_documentation/picture_24.png)
+
+## Frontend
+
+The webapp is 100% responsive and it includes basic animations realised with CSS3, Javascript and Jquery.
+
+![Website main page](CiganEnterprize_documentation/picture_25.png) ![Website main page](CiganEnterprize_documentation/picture_26.png)
+
