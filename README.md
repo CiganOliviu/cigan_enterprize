@@ -189,3 +189,55 @@ The webapp is 100% responsive and it includes basic animations realised with CSS
 
 ![Website main page](CiganEnterprize_documentation/picture_25.png) ![Website main page](CiganEnterprize_documentation/picture_26.png)
 
+
+## Technologies
+
+The technologies I've used for this project are HTML5, SASS, Bootstrap, FontAwesome,
+JavaScript, Jquery, Python Django, SQL Based Database.
+
+## Future Development
+
+A list with possible and helpful updates that the system may need:
+
+* The time under the name of a city where the business has a studio is the server time, it updates
+only when you reload the page. It would be nice an implementation which includes ajax so that the user
+will not have to reload the page to see the current time.
+
+* Because we talk about a lot of components which creates the system, a better UX for the page
+may be a good idea.
+
+## Requirements
+
+* You should have python3 and django version (3.0.8) installed.
+
+## Setup
+
+* Download this repo
+* After downloading this repo you have to get a SECRET_KEY from here -> https://djecrety.ir/ and paste
+it in the settings.py file from cigan_enterprize folder. (cigan_enterprize/CiganEnterprize/settings.py)
+ 
+![Website main page responsive](CiganEnterprize_documentation/picture_27.png)
+
+* Open cmd or terminal in cigan_enterprize folder and type 
+```
+    python3 manage.py makemigrations
+```
+
+then 
+
+```
+    python3 manage.py migrate
+```
+
+after that create an admin
+
+```
+    python3 manage.py createsuperuser
+```
+
+run the app
+
+```
+    python3 manage.py runserver
+```
+* Enjoy
