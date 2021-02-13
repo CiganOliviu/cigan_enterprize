@@ -8,8 +8,9 @@ and subsystems who are very well automated.
 ## Backend
 
 In the backend I have 9 databases each of them being strong related to a subsystem automated in the webapp.
-I have also integrated the CRM plugin ( more details here -> ... ) for managing the clients and the projects
-the company is working at. Excluding the databases included by the CRM, there are 5 databases.
+I have also integrated the CRM plugin ( more details here -> https://github.com/CiganEnterprise/CRMPlugin ) for 
+managing the clients and the projects the company is working at. Excluding the databases included by 
+the CRM, there are 5 databases.
 * BLOG which includes only one table: Posts
 * MAINCOMPONENT which includes three tables: Employers, Projects, Studios.
 * EVENTS which includes three tables: Host events, Past Events, Sponsor Events
@@ -42,7 +43,8 @@ Also for making the user job simpler I also implemented a search engine through 
 
 ![Website main page](CiganEnterprize_documentation/picture_6.png)
 
-This blog system was also implemented in ciganoliviudavid webapp which is my personal website ( Details here -> ...).
+This blog system was also implemented in ciganoliviudavid webapp which is my personal website 
+( Details here -> https://github.com/CiganEnterprise/ciganoliviudavid).
 
 ##### CAREERS
 
@@ -98,7 +100,7 @@ the platform administrator will be able to check it.
 This database represents the direct contact to any user who visits the site. It contains 
 two main tables. The Contact table contains messages who are send to the business by a visitor who wants
 to offer some feedback, ask something about the business or pretty much say anything he wants.
-The message is sent trough a form in the UI, more precisely in the Contact section.
+The message is sent through a form in the UI, more precisely in the Contact section.
 
 ##### This is how the form looks like in the UI
 
@@ -208,7 +210,7 @@ may be a good idea.
 
 ## Requirements
 
-* You should have python3 and django version (3.0.8) installed.
+* You should have python3 and django (version 3.0.8 or bigger) installed.
 
 ## Setup
 
